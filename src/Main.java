@@ -11,7 +11,7 @@ public class Main {
 
         Car audi = new Car("Audi","A8 50 L TDI quattro",3.0,"черный",2020,"Германия");
 
-        System.out.println("Марка автомобиля " + audi.brand +
+        System.out.println("марка автомобиля " + audi.brand +
                 ", модель автомобиля " + audi.model +
                 ", объем двигателя " + audi.volumeOfEngine +
                 ", цвет автомобиля " + audi.colour +
